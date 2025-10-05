@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base fiery vibe */
+:root {
+  --bg-charcoal: #0b0b0b;
+  --text-ash: #e5e7eb;
+}
+html, body, #root {
+  height: 100%;
+}
+body {
+  background: #0b0b0b;
+  color: var(--text-ash);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Selection */
+::selection {
+  background: rgba(220,38,38,0.85);
+  color: white;
+}
+
+/* Utilities */
+.fire-glow {
+  box-shadow: 0 0 50px rgba(220,38,38,0.25), inset 0 0 30px rgba(249,115,22,0.15);
+}
