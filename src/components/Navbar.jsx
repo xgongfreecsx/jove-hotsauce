@@ -5,7 +5,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur supports-[backdrop-filter]:bg-charcoal/40 bg-charcoal/60 text-white">
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         <a href="#hero" className="font-extrabold tracking-wide text-xl">
-          APOXIAZULE<span className="text-ember"> Hot Sauce</span>
+          SAUCECHO<span className="text-ember"> Hot Sauce</span>
         </a>
         <div className="flex items-center gap-6">
           <a href="#product" className="hidden sm:inline text-sm text-white/90 hover:text-white transition">Bottle</a>
@@ -14,7 +14,7 @@ export default function Navbar() {
           <div className="relative group">
             <button className="inline-flex items-center gap-2 text-sm font-semibold tracking-wide">
               <span className="bg-gradient-to-r from-chili to-ember bg-clip-text text-transparent group-hover:animate-flicker">
-                HEAT INDEX
+                INDEX
               </span>
               <svg className="w-4 h-4 text-ember group-hover:text-white transition" viewBox="0 0 20 20" fill="currentColor">
                 <path fillRule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 10.939l3.71-3.71a.75.75 0 111.06 1.062l-4.24 4.24a.75.75 0 01-1.06 0L5.25 8.29a.75.75 0 01-.02-1.06z" clipRule="evenodd" />

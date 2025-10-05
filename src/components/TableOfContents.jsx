@@ -14,7 +14,7 @@ const TableOfContents = () => {
 
   // Table of contents items
   const contents = [
-    { title: "Opening Spread", description: "More than hydration—it's a moment", page: "01" },
+    { title: "Opening Spread", description: "More Heat—it's a moment", page: "01" },
     { title: "The Essence", description: "Cold clarity & Silent strength", page: "02-03" },
     { title: "Product Design", description: "Crafted in 2025. Designed for 2030", page: "04" },
     { title: "Last Word", description: "The future in a bottle", page: "05" }

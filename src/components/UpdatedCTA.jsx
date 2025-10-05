@@ -73,7 +73,7 @@ const UpdatedCTA = () => {
             {/* Bottle image */}
             <img 
               src="/assets/images/product-bottle.png" 
-              alt="APOXIAZULE bottle" 
+              alt="bottle" 
               className="relative z-10 h-[50vh] max-h-[500px] mx-auto object-contain animate-float"
             />
             
@@ -85,7 +85,7 @@ const UpdatedCTA = () => {
         {/* CTA Text */}
         <div className={`max-w-2xl mx-auto ${animationStarted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'} transition-all duration-1500 delay-300 ease-out`}>
           <h2 className="text-4xl md:text-6xl font-light text-white mb-6 leading-tight">
-            It's not just a drink.<br />
+            It's not just a Sauce.<br />
             <span className="text-[#00a2ff]">It's the future in a bottle.</span>
           </h2>
           

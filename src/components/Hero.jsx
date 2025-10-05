@@ -14,7 +14,7 @@ export default function Hero() {
             <span className="block bg-gradient-to-r from-chili to-ember bg-clip-text text-transparent">Taste the rush.</span>
           </h1>
           <p className="mt-6 text-lg text-white/80 max-w-prose">
-            APOXIAZULE Hot Sauce blends fire and flavor—smoke, citrus, and roasted pepper intensity that electrifies every bite.
+            SAUCECHO Hot Sauce blends fire and flavor—smoke, citrus, and roasted pepper intensity that electrifies every bite.
           </p>
           <div className="mt-8 flex items-center gap-4">
             <a href="#cta" className="inline-flex items-center justify-center rounded-md bg-gradient-to-r from-chili to-ember px-5 py-3 text-sm font-semibold text-white shadow-ember hover:shadow-lg hover:shadow-ember/80 transition">
@@ -30,7 +30,7 @@ export default function Hero() {
           <div className="absolute -inset-6 rounded-full blur-2xl bg-ember/20 animate-flicker" />
           <img
             src="/assets/images/product-bottle.png"
-            alt="APOXIAZULE Hot Sauce Bottle"
+            alt="Hot Sauce Bottle"
             className="relative z-10 h-[420px] w-auto object-contain drop-shadow-2xl"
           />
         </div>

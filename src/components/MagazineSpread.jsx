@@ -17,7 +17,7 @@ export default function MagazineSpread() {
           <div className="aspect-[4/3] w-full bg-gradient-to-br from-chili/40 via-ember/20 to-charcoal/80 flex items-center justify-center">
             <img
               src="/assets/images/product-bottle.png"
-              alt="APOXIAZULE Hot Sauce Bottle"
+              alt="Hot Sauce Bottle"
               className="h-72 w-auto object-contain drop-shadow-2xl"
             />
           </div>
